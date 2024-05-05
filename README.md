@@ -1,5 +1,5 @@
 # EX-04 Implement A* Search Algorithm for a Graph
-# DATE: 28.04.2024
+- DATE: 28.04.2024
 ### Aim:
 To Implement A* Search algorithm for a Graph using Python 3.
 
