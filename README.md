@@ -1,6 +1,4 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:PAVANA.G</h3>
-<h3>Register Number:212222230105</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -50,6 +48,8 @@
 
 ``````
 ## PROGRAM:
+## Name:PAVANA.G
+## Register Number:212222230105
 ```python
 from collections import defaultdict
 H_dist ={}
@@ -198,8 +198,6 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
-
-
 <hr>
 <h2>Sample Input</h2>
 <hr>
